@@ -1,0 +1,7 @@
+animal:
+  name: bird
+  type: small animal
+  bird:
+    doing: jiujiujiu
+#animalname=bird
+#animal.type=small animal
